@@ -2,6 +2,8 @@
 <h3 align="center">A passionate web developer from VietNam</h3>
 
 - 🏫 I’m currently learning at **University of Information Technology – UIT**
+- 
+- 🤝 I’m looking to collaborate on web development projects
 
 - 💬 Ask me about **HTML,CSS,JS,REACTJS**
 
